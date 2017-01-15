@@ -15,3 +15,6 @@ $("#dataInput").off("timeData").on("timeData",function(event){
 }).dataYear({
 	dataTop:20   //这20是根据input定位的位置，可以自定义配置
 })
+
+###控件样式，如果大家觉得slect样式难看，这种也未尝不是一个好方式
+![github](https://santant.github.io/githubImg/jquery-data.png "github") 
