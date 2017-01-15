@@ -1,5 +1,5 @@
 # dataBirthdayJquery
-一个jquery的生日选择插件，不是select形式,被ui逼的～～
+一个jquery的生日选择插件，不是select形式,被ui逼的～～，用回调函数，配合angular的指令，在吧值返回到$scope里面，也是爽的不要不要的
 #用法:
 ### 首先提供1个带定位属性的div包住input框，方便控件根据此div定位
    <pre>
