@@ -8,6 +8,7 @@
   &lt;/div&gt;
    </pre>
 
+###脚本调用方式：大部分我都内置在组件中了,外面只暴露了1个接口，方便调节位置
 ```javascript
 $("#dataInput").off("timeData").on("timeData",function(event){
 	console.log("回调函数")//这个是组件消失之后的回调，如果有需要可以处理用户自己的逻辑	
