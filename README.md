@@ -7,6 +7,7 @@
 			&lt;input type="text" name="" id="dataInput" value="" /&gt;			
   &lt;/div&gt;
    </pre>
+![](https://santant.github.io/githubImg/jquery-data.png)
 
 ###脚本调用方式：大部分我都内置在组件中了,外面只暴露了1个接口，方便调节位置
 ```javascript
@@ -18,4 +19,4 @@ $("#dataInput").off("timeData").on("timeData",function(event){
 
 ###控件样式，如果大家觉得slect样式难看，这种也未尝不是一个好方式
 
-![](https://santant.github.io/githubImg/jquery-data.png)
+
