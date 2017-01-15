@@ -17,4 +17,5 @@ $("#dataInput").off("timeData").on("timeData",function(event){
 })
 
 ###控件样式，如果大家觉得slect样式难看，这种也未尝不是一个好方式
-![github](https://santant.github.io/githubImg/jquery-data.png "github") 
+
+![](https://santant.github.io/githubImg/jquery-data.png)
